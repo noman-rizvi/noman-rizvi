@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center" style="color:#2196F3;">👋 Hi, I'm Muhammad Noman Zahid</h1>
+<h1 align="center" style="color:#2196F3;">👋 Hi, I'm Noman Rizvi</h1>
 <h3 align="center">Python Programmer • Data Science Enthusiast • ML Learner</h3>
 
 <p align="center">
