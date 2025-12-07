@@ -1,4 +1,3 @@
-<!-- Header -->
 <h1 align="center" style="color:#2196F3;">👋 Hi, I'm Noman Rizvi</h1>
 <h3 align="center">Python Programmer • Data Science Enthusiast • ML Learner</h3>
 
@@ -61,18 +60,20 @@ Currently improving my skills in **AI, Data Science, Machine Learning**, and bac
 ---
 
 ## 💼 Experience  
-- **Python Intern – Kivro Solutions**  
+- **Python Intern – Kivro Solutions** - 🏆 **Awarded Top Performer** (Batch #01)
+    - 📜 Certificate ID: `KS-01-25078`
+    - *Successfully completed the Python Programming Internship Program.*
 - **AI & Data Science Trainee – Saylani Mass IT Training**
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/mnz360">
+  <a href="https://www.linkedin.com/in/noman-rizvi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/nomanzahid360">
+  <a href="https://github.com/noman-rizvi">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -94,4 +95,4 @@ Currently improving my skills in **AI, Data Science, Machine Learning**, and bac
 
 ---
 
-⭐ *If you like my work, consider giving my repositories a star!*  
+⭐ *If you like my work, consider giving my repositories a star!* ```
