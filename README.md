@@ -61,6 +61,7 @@ Currently improving my skills in **AI, Data Science, Machine Learning**, and bac
 
 ## 💼 Experience  
 - **Python Intern – Kivro Solutions** - 🏆 **Awarded Top Performer** (Batch #01)
+    - 🗓️ **05-Nov-2025 to 05-Dec-2025**
     - 📜 Certificate ID: `KS-01-25078`
     - *Successfully completed the Python Programming Internship Program.*
 - **AI & Data Science Trainee – Saylani Mass IT Training**
